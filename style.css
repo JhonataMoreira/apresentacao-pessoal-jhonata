@@ -1,0 +1,64 @@
+body{
+    background-color: honeydew;
+}
+
+h1{
+    color: #5D3C8A;
+    text-align: center;
+}
+
+p{
+    font-size: large;
+    text-align: justify;
+}
+
+h2 { 
+    color: #1a1129; 
+    margin-top: 30px; 
+    margin-bottom: 15px; 
+}
+
+.hobbies li {
+    font-size: 22px;
+    margin: 10px; 
+    background-color: rgb(179, 151, 82); 
+    width: fit-content;
+}
+
+img {
+    border-radius: 10px;
+    height: 320px;
+    width: 450px;
+}
+
+img[src="Imagens/Ética a Nicômaco"]{ 
+    height: 300px;
+    width: 420px;
+    display: block; 
+    margin: 20px auto; 
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 1px; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+th {
+    background-color: #232224;
+    color: white; 
+    padding: 10px; 
+    text-align: center;  
+    border: 1px solid #b8b6b6; 
+}
+
+td {
+    padding: 8px; 
+    text-align: center; 
+    border: 1px solid black;  
+}
+
+a:hover{
+    color: darkred;
+}
